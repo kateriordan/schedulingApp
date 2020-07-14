@@ -32,7 +32,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
     
     @IBOutlet weak var displayImage: UIImageView!
     
-func imagePickerController(_picker: UIImagePickerController, didFinishPickingMediaWithInfro info: [UIImagePickerController.InfoKey : Any])
+    func imagePickerController(_ _picker: UIImagePickerController, didFinishPickingMediaWithInfo info: [UIImagePickerController.InfoKey : Any])
 {
     if let selectedImage = info[UIImagePickerController.InfoKey.originalImage] as? UIImage {
         displayImage.image = selectedImage
