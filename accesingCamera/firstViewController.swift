@@ -10,13 +10,19 @@ import UIKit
 
 class firstViewController: UIViewController {
 
+   var activiesSelected = ""
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
     }
     
-
+    @IBAction func exerciseButtonPressed(_ sender: UIButton) {
+        activiesSelected = "exercise"
+    }
+    
     /*
     // MARK: - Navigation
 

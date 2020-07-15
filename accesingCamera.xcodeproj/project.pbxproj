@@ -16,8 +16,6 @@
 		7969B96B24BE0C44006DE118 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7969B96924BE0C44006DE118 /* LaunchScreen.storyboard */; };
 		7969B97624BE0C44006DE118 /* accesingCameraTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7969B97524BE0C44006DE118 /* accesingCameraTests.swift */; };
 		7969B98124BE0C45006DE118 /* accesingCameraUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7969B98024BE0C45006DE118 /* accesingCameraUITests.swift */; };
-		79E8D1E424BE6EEC0035E0AD /* backarrow_arrow_undo_back_fill_small-512.png in Resources */ = {isa = PBXBuildFile; fileRef = 79E8D1E324BE6EEC0035E0AD /* backarrow_arrow_undo_back_fill_small-512.png */; };
-		79E8D1E624BE6F020035E0AD /* white-plus-icon-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 79E8D1E524BE6F010035E0AD /* white-plus-icon-3.png */; };
 		79E8D1E824BE718E0035E0AD /* firstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E8D1E724BE718E0035E0AD /* firstViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -54,8 +52,6 @@
 		7969B97C24BE0C45006DE118 /* accesingCameraUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = accesingCameraUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7969B98024BE0C45006DE118 /* accesingCameraUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = accesingCameraUITests.swift; sourceTree = "<group>"; };
 		7969B98224BE0C45006DE118 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		79E8D1E324BE6EEC0035E0AD /* backarrow_arrow_undo_back_fill_small-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "backarrow_arrow_undo_back_fill_small-512.png"; path = "../../../Desktop/backarrow_arrow_undo_back_fill_small-512.png"; sourceTree = "<group>"; };
-		79E8D1E524BE6F010035E0AD /* white-plus-icon-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "white-plus-icon-3.png"; path = "../../../Desktop/white-plus-icon-3.png"; sourceTree = "<group>"; };
 		79E8D1E724BE718E0035E0AD /* firstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -113,8 +109,6 @@
 				7969B96124BE0C41006DE118 /* Main.storyboard */,
 				79E8D1E724BE718E0035E0AD /* firstViewController.swift */,
 				7969B96724BE0C44006DE118 /* Assets.xcassets */,
-				79E8D1E524BE6F010035E0AD /* white-plus-icon-3.png */,
-				79E8D1E324BE6EEC0035E0AD /* backarrow_arrow_undo_back_fill_small-512.png */,
 				7969B96924BE0C44006DE118 /* LaunchScreen.storyboard */,
 				7969B96C24BE0C44006DE118 /* Info.plist */,
 				7969B96424BE0C41006DE118 /* accesingCamera.xcdatamodeld */,
@@ -245,8 +239,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				7969B96B24BE0C44006DE118 /* LaunchScreen.storyboard in Resources */,
-				79E8D1E624BE6F020035E0AD /* white-plus-icon-3.png in Resources */,
-				79E8D1E424BE6EEC0035E0AD /* backarrow_arrow_undo_back_fill_small-512.png in Resources */,
 				7969B96824BE0C44006DE118 /* Assets.xcassets in Resources */,
 				7969B96324BE0C41006DE118 /* Main.storyboard in Resources */,
 			);
