@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7959315024BF92C800AE4355 /* Screen Shot 2020-07-15 at 3.38.28 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 7959314F24BF92C700AE4355 /* Screen Shot 2020-07-15 at 3.38.28 PM.png */; };
 		7969B95C24BE0C41006DE118 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7969B95B24BE0C41006DE118 /* AppDelegate.swift */; };
 		7969B95E24BE0C41006DE118 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7969B95D24BE0C41006DE118 /* SceneDelegate.swift */; };
 		7969B96024BE0C41006DE118 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7969B95F24BE0C41006DE118 /* ViewController.swift */; };
@@ -17,11 +16,6 @@
 		7969B96B24BE0C44006DE118 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7969B96924BE0C44006DE118 /* LaunchScreen.storyboard */; };
 		7969B97624BE0C44006DE118 /* accesingCameraTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7969B97524BE0C44006DE118 /* accesingCameraTests.swift */; };
 		7969B98124BE0C45006DE118 /* accesingCameraUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7969B98024BE0C45006DE118 /* accesingCameraUITests.swift */; };
-		799608DF24BF63150078E9B0 /* download.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 799608DE24BF63140078E9B0 /* download.jpg */; };
-		799608E124BF66610078E9B0 /* shopping-icon-2184065_1280.png in Resources */ = {isa = PBXBuildFile; fileRef = 799608E024BF66610078E9B0 /* shopping-icon-2184065_1280.png */; };
-		799608E324BF6B680078E9B0 /* download.png in Resources */ = {isa = PBXBuildFile; fileRef = 799608E224BF6B680078E9B0 /* download.png */; };
-		799608E524BF6BBA0078E9B0 /* container-icon-laptop-working-on-laptop-icon-11562980144p8odojgwmj.png in Resources */ = {isa = PBXBuildFile; fileRef = 799608E424BF6BBA0078E9B0 /* container-icon-laptop-working-on-laptop-icon-11562980144p8odojgwmj.png */; };
-		799608E724BF6D080078E9B0 /* 236-2366695_presentacin-en-tu-colegio-o-instituto-circle-school.png in Resources */ = {isa = PBXBuildFile; fileRef = 799608E624BF6D080078E9B0 /* 236-2366695_presentacin-en-tu-colegio-o-instituto-circle-school.png */; };
 		79E8D1E824BE718E0035E0AD /* firstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E8D1E724BE718E0035E0AD /* firstViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -43,7 +37,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		7959314F24BF92C700AE4355 /* Screen Shot 2020-07-15 at 3.38.28 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-07-15 at 3.38.28 PM.png"; path = "../../../Desktop/Screen Shot 2020-07-15 at 3.38.28 PM.png"; sourceTree = "<group>"; };
 		7969B95824BE0C40006DE118 /* accesingCamera.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = accesingCamera.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7969B95B24BE0C41006DE118 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7969B95D24BE0C41006DE118 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,11 +52,6 @@
 		7969B97C24BE0C45006DE118 /* accesingCameraUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = accesingCameraUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7969B98024BE0C45006DE118 /* accesingCameraUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = accesingCameraUITests.swift; sourceTree = "<group>"; };
 		7969B98224BE0C45006DE118 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		799608DE24BF63140078E9B0 /* download.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = download.jpg; path = ../../../Desktop/download.jpg; sourceTree = "<group>"; };
-		799608E024BF66610078E9B0 /* shopping-icon-2184065_1280.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "shopping-icon-2184065_1280.png"; path = "../../../Desktop/shopping-icon-2184065_1280.png"; sourceTree = "<group>"; };
-		799608E224BF6B680078E9B0 /* download.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = download.png; path = ../../../Desktop/download.png; sourceTree = "<group>"; };
-		799608E424BF6BBA0078E9B0 /* container-icon-laptop-working-on-laptop-icon-11562980144p8odojgwmj.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "container-icon-laptop-working-on-laptop-icon-11562980144p8odojgwmj.png"; path = "../../../Desktop/container-icon-laptop-working-on-laptop-icon-11562980144p8odojgwmj.png"; sourceTree = "<group>"; };
-		799608E624BF6D080078E9B0 /* 236-2366695_presentacin-en-tu-colegio-o-instituto-circle-school.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "236-2366695_presentacin-en-tu-colegio-o-instituto-circle-school.png"; path = "../../../Desktop/236-2366695_presentacin-en-tu-colegio-o-instituto-circle-school.png"; sourceTree = "<group>"; };
 		79E8D1E724BE718E0035E0AD /* firstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -121,12 +109,6 @@
 				7969B96124BE0C41006DE118 /* Main.storyboard */,
 				79E8D1E724BE718E0035E0AD /* firstViewController.swift */,
 				7969B96724BE0C44006DE118 /* Assets.xcassets */,
-				7959314F24BF92C700AE4355 /* Screen Shot 2020-07-15 at 3.38.28 PM.png */,
-				799608E624BF6D080078E9B0 /* 236-2366695_presentacin-en-tu-colegio-o-instituto-circle-school.png */,
-				799608E424BF6BBA0078E9B0 /* container-icon-laptop-working-on-laptop-icon-11562980144p8odojgwmj.png */,
-				799608E224BF6B680078E9B0 /* download.png */,
-				799608E024BF66610078E9B0 /* shopping-icon-2184065_1280.png */,
-				799608DE24BF63140078E9B0 /* download.jpg */,
 				7969B96924BE0C44006DE118 /* LaunchScreen.storyboard */,
 				7969B96C24BE0C44006DE118 /* Info.plist */,
 				7969B96424BE0C41006DE118 /* accesingCamera.xcdatamodeld */,
@@ -256,15 +238,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				799608E124BF66610078E9B0 /* shopping-icon-2184065_1280.png in Resources */,
 				7969B96B24BE0C44006DE118 /* LaunchScreen.storyboard in Resources */,
-				7959315024BF92C800AE4355 /* Screen Shot 2020-07-15 at 3.38.28 PM.png in Resources */,
 				7969B96824BE0C44006DE118 /* Assets.xcassets in Resources */,
-				799608E724BF6D080078E9B0 /* 236-2366695_presentacin-en-tu-colegio-o-instituto-circle-school.png in Resources */,
-				799608E524BF6BBA0078E9B0 /* container-icon-laptop-working-on-laptop-icon-11562980144p8odojgwmj.png in Resources */,
 				7969B96324BE0C41006DE118 /* Main.storyboard in Resources */,
-				799608DF24BF63150078E9B0 /* download.jpg in Resources */,
-				799608E324BF6B680078E9B0 /* download.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
