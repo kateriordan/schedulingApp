@@ -17,7 +17,6 @@
 		7969B97624BE0C44006DE118 /* accesingCameraTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7969B97524BE0C44006DE118 /* accesingCameraTests.swift */; };
 		7969B98124BE0C45006DE118 /* accesingCameraUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7969B98024BE0C45006DE118 /* accesingCameraUITests.swift */; };
 		79E8D1E824BE718E0035E0AD /* firstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79E8D1E724BE718E0035E0AD /* firstViewController.swift */; };
-		F36FEC4524C0CC9600022A49 /* Screen Shot 2020-07-16 at 12.57.03 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = F36FEC4424C0CC9600022A49 /* Screen Shot 2020-07-16 at 12.57.03 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +53,6 @@
 		7969B98024BE0C45006DE118 /* accesingCameraUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = accesingCameraUITests.swift; sourceTree = "<group>"; };
 		7969B98224BE0C45006DE118 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		79E8D1E724BE718E0035E0AD /* firstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstViewController.swift; sourceTree = "<group>"; };
-		F36FEC4424C0CC9600022A49 /* Screen Shot 2020-07-16 at 12.57.03 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2020-07-16 at 12.57.03 PM.png"; path = "../../../Desktop/Screen Shot 2020-07-16 at 12.57.03 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,7 +109,6 @@
 				7969B96124BE0C41006DE118 /* Main.storyboard */,
 				79E8D1E724BE718E0035E0AD /* firstViewController.swift */,
 				7969B96724BE0C44006DE118 /* Assets.xcassets */,
-				F36FEC4424C0CC9600022A49 /* Screen Shot 2020-07-16 at 12.57.03 PM.png */,
 				7969B96924BE0C44006DE118 /* LaunchScreen.storyboard */,
 				7969B96C24BE0C44006DE118 /* Info.plist */,
 				7969B96424BE0C41006DE118 /* accesingCamera.xcdatamodeld */,
@@ -243,7 +240,6 @@
 			files = (
 				7969B96B24BE0C44006DE118 /* LaunchScreen.storyboard in Resources */,
 				7969B96824BE0C44006DE118 /* Assets.xcassets in Resources */,
-				F36FEC4524C0CC9600022A49 /* Screen Shot 2020-07-16 at 12.57.03 PM.png in Resources */,
 				7969B96324BE0C41006DE118 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

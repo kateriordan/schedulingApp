@@ -74,9 +74,16 @@ class firstViewController:
         let imageIndex = matchAct[activitiesSelected]
         
         // change image property of button to image of acitivty
-        act89.image = imageHold[imageIndex!]
-        
-        
+        if sender.accessibilityLabel == "time89"{act89.image = imageHold[imageIndex!]}
+         if sender.accessibilityLabel == "time910"{act910.image = imageHold[imageIndex!]}
+         if sender.accessibilityLabel == "time1011"{ act1011.image = imageHold[imageIndex!]}
+        if sender.accessibilityLabel == "time1112"{ act1112.image = imageHold[imageIndex!]}
+        if sender.accessibilityLabel == "time121"{ act121.image = imageHold[imageIndex!]}
+        if sender.accessibilityLabel == "time12"{ act12.image = imageHold[imageIndex!]}
+         if sender.accessibilityLabel == "time23"{ act23.image = imageHold[imageIndex!]}
+         if sender.accessibilityLabel == "time34"{ act34.image = imageHold[imageIndex!]}
+         if sender.accessibilityLabel == "time45"{ act45.image = imageHold[imageIndex!]}
+         if sender.accessibilityLabel == "time56"{ act56.image = imageHold[imageIndex!]}
         // set text to empty string
         // class UITextField : UIControl "" 
     }
